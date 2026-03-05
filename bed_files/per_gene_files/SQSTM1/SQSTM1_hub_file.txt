@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - SQSTM1
+shortLabel D&D Gene Editing - SQSTM1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (SQSTM1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track SQSTM1 Common Variant Editing Targets
+shortLabel SQSTM1 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for SQSTM1
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/SQSTM1/SQSTM1.bb
+            

@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - STX1B
+shortLabel D&D Gene Editing - STX1B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (STX1B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track STX1B Common Variant Editing Targets
+shortLabel STX1B targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for STX1B
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/STX1B/STX1B.bb
+            

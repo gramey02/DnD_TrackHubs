@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - SCNN1G
+shortLabel D&D Gene Editing - SCNN1G
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (SCNN1G)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track SCNN1G Common Variant Editing Targets
+shortLabel SCNN1G targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for SCNN1G
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/SCNN1G/SCNN1G.bb
+            
