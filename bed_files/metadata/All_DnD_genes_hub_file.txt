@@ -6,7 +6,7 @@ email Grace.Ramey@ucsf.edu
 
 genome hg38
 
-track Common Variant Editing Targets for D&D Genes
+track CommonVar_EditingTargets
 shortLabel D&D gene editing targets
 longLabel VCF: Mutation-agnostic and allele-specific editing sites for D&D genes
 visibility pack
