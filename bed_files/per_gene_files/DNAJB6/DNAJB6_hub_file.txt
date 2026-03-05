@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - DNAJB6
+shortLabel D&D Gene Editing - DNAJB6
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (DNAJB6)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track DNAJB6 Common Variant Editing Targets
+shortLabel DNAJB6 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for DNAJB6
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/DNAJB6/DNAJB6.bb
+            

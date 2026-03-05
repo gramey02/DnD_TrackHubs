@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GANAB
+shortLabel D&D Gene Editing - GANAB
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GANAB)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GANAB Common Variant Editing Targets
+shortLabel GANAB targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for GANAB
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/GANAB/GANAB.bb
+            

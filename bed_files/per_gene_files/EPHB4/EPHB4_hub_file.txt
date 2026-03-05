@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - EPHB4
+shortLabel D&D Gene Editing - EPHB4
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (EPHB4)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track EPHB4 Common Variant Editing Targets
+shortLabel EPHB4 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for EPHB4
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/EPHB4/EPHB4.bb
+            

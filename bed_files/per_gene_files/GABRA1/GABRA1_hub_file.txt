@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GABRA1
+shortLabel D&D Gene Editing - GABRA1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GABRA1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GABRA1 Common Variant Editing Targets
+shortLabel GABRA1 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for GABRA1
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/GABRA1/GABRA1.bb
+            
