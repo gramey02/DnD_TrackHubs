@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - VAPB
+shortLabel D&D Gene Editing - VAPB
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (VAPB)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track VAPB Common Variant Editing Targets
+shortLabel VAPB targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for VAPB
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/VAPB/VAPB.bb
+            
