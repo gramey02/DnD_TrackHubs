@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - H4C5
+shortLabel D&D Gene Editing - H4C5
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (H4C5)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track H4C5 Common Variant Editing Targets
+shortLabel H4C5 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for H4C5
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/H4C5/H4C5.bb
+            

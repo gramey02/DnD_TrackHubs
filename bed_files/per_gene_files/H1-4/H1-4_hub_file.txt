@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - H1-4
+shortLabel D&D Gene Editing - H1-4
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (H1-4)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track H1-4 Common Variant Editing Targets
+shortLabel H1-4 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for H1-4
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/H1-4/H1-4.bb
+            

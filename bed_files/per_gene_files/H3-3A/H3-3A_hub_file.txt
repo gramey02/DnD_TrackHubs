@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - H3-3A
+shortLabel D&D Gene Editing - H3-3A
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (H3-3A)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track H3-3A Common Variant Editing Targets
+shortLabel H3-3A targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for H3-3A
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/H3-3A/H3-3A.bb
+            

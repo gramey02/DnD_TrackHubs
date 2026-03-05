@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - IKZF2
+shortLabel D&D Gene Editing - IKZF2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (IKZF2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track IKZF2 Common Variant Editing Targets
+shortLabel IKZF2 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for IKZF2
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/IKZF2/IKZF2.bb
+            
