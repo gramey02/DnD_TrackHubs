@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - AKT3
+shortLabel D&D Gene Editing - AKT3
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (AKT3)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track AKT3 Common Variant Editing Targets
+shortLabel AKT3 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for AKT3
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/AKT3/AKT3.bb
+            

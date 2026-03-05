@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ADCY5
+shortLabel D&D Gene Editing - ADCY5
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ADCY5)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ADCY5 Common Variant Editing Targets
+shortLabel ADCY5 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for ADCY5
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/ADCY5/ADCY5.bb
+            

@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - AP2M1
+shortLabel D&D Gene Editing - AP2M1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (AP2M1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track AP2M1 Common Variant Editing Targets
+shortLabel AP2M1 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for AP2M1
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/AP2M1/AP2M1.bb
+            
