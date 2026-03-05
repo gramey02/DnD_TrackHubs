@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - MYH9
+shortLabel D&D Gene Editing - MYH9
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (MYH9)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track MYH9 Common Variant Editing Targets
+shortLabel MYH9 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for MYH9
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/MYH9/MYH9.bb
+            

@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PIEZO1
+shortLabel D&D Gene Editing - PIEZO1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PIEZO1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PIEZO1 Common Variant Editing Targets
+shortLabel PIEZO1 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for PIEZO1
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/PIEZO1/PIEZO1.bb
+            

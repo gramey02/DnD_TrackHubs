@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PIK3CA
+shortLabel D&D Gene Editing - PIK3CA
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PIK3CA)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PIK3CA Common Variant Editing Targets
+shortLabel PIK3CA targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for PIK3CA
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/PIK3CA/PIK3CA.bb
+            

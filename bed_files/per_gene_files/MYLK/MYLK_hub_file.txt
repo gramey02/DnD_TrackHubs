@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - MYLK
+shortLabel D&D Gene Editing - MYLK
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (MYLK)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track MYLK Common Variant Editing Targets
+shortLabel MYLK targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for MYLK
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/MYLK/MYLK.bb
+            

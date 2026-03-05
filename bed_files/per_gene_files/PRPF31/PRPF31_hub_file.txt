@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PRPF31
+shortLabel D&D Gene Editing - PRPF31
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PRPF31)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PRPF31 Common Variant Editing Targets
+shortLabel PRPF31 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for PRPF31
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/PRPF31/PRPF31.bb
+            

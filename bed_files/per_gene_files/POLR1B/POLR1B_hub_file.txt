@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - POLR1B
+shortLabel D&D Gene Editing - POLR1B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (POLR1B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track POLR1B Common Variant Editing Targets
+shortLabel POLR1B targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for POLR1B
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/POLR1B/POLR1B.bb
+            
