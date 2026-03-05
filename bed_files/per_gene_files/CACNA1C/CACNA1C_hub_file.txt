@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CACNA1C
+shortLabel D&D Gene Editing - CACNA1C
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CACNA1C)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CACNA1C Common Variant Editing Targets
+shortLabel CACNA1C targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for CACNA1C
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/CACNA1C/CACNA1C.bb
+            

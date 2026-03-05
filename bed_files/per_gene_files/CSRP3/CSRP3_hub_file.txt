@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CSRP3
+shortLabel D&D Gene Editing - CSRP3
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CSRP3)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CSRP3 Common Variant Editing Targets
+shortLabel CSRP3 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for CSRP3
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/CSRP3/CSRP3.bb
+            

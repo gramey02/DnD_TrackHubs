@@ -1,0 +1,15 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CHCHD10
+shortLabel D&D Gene Editing - CHCHD10
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CHCHD10)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CHCHD10 Common Variant Editing Targets
+shortLabel CHCHD10 targets
+longLabel VCF: Mutation-agnostic and allele-specific editing sites for CHCHD10
+visibility pack
+type bigBed
+bigDataUrl https://github.com/gramey02/ConklinCollab/raw/refs/heads/main/data/dHS_and_related_GeneSets/pipeline_results/RUN_12_19_25/summary_files/browser_tracks/bed_files/per_gene_files/CHCHD10/CHCHD10.bb
+            
