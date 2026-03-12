@@ -8,7 +8,7 @@ genome hg38
 
 track ACTB Common Variant Editing Targets
 shortLabel ACTB targets
-longLabel VCF: Mutation-agnostic and allele-specific editing sites for ACTB
+longLabel Mutation-agnostic and allele-specific editing sites for ACTB
 visibility pack
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ACTB/ACTB.bb

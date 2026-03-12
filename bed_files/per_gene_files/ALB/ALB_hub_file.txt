@@ -8,7 +8,7 @@ genome hg38
 
 track ALB Common Variant Editing Targets
 shortLabel ALB targets
-longLabel VCF: Mutation-agnostic and allele-specific editing sites for ALB
+longLabel Mutation-agnostic and allele-specific editing sites for ALB
 visibility pack
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ALB/ALB.bb

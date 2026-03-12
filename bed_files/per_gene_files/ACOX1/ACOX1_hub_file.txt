@@ -8,7 +8,7 @@ genome hg38
 
 track ACOX1 Common Variant Editing Targets
 shortLabel ACOX1 targets
-longLabel VCF: Mutation-agnostic and allele-specific editing sites for ACOX1
+longLabel Mutation-agnostic and allele-specific editing sites for ACOX1
 visibility pack
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ACOX1/ACOX1.bb

@@ -8,7 +8,7 @@ genome hg38
 
 track ADAR Common Variant Editing Targets
 shortLabel ADAR targets
-longLabel VCF: Mutation-agnostic and allele-specific editing sites for ADAR
+longLabel Mutation-agnostic and allele-specific editing sites for ADAR
 visibility pack
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ADAR/ADAR.bb

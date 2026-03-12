@@ -8,7 +8,7 @@ genome hg38
 
 track ASXL2 Common Variant Editing Targets
 shortLabel ASXL2 targets
-longLabel VCF: Mutation-agnostic and allele-specific editing sites for ASXL2
+longLabel Mutation-agnostic and allele-specific editing sites for ASXL2
 visibility pack
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ASXL2/ASXL2.bb

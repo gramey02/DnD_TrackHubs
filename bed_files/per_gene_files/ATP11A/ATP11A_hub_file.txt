@@ -8,7 +8,7 @@ genome hg38
 
 track ATP11A Common Variant Editing Targets
 shortLabel ATP11A targets
-longLabel VCF: Mutation-agnostic and allele-specific editing sites for ATP11A
+longLabel Mutation-agnostic and allele-specific editing sites for ATP11A
 visibility pack
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ATP11A/ATP11A.bb
